@@ -11,13 +11,14 @@
 <p align="center"> <img src="https://github.com/user-attachments/assets/6f6e1b3b-e9b2-49dd-94fa-b0fdd9967ed5" alt="Clipify Demo" width="900"> </p>
 
 <p align="center">
-  <a href="https://github.com/adelelawady/clipify-hub/releases/download/latest/clipify-hub-installer.exe">
+  <a href="https://github.com/adelelawady/Clipify-Hub/releases/download/3.3.0/clipify-hub-installer.exe">
     <img src="https://img.shields.io/badge/Download-Installable%20App-blue?style=for-the-badge&logo=windows" alt="Download Installable">
   </a>
-  <a href="https://github.com/adelelawady/clipify-hub/releases/download/latest/clipify-hub-server.exe">
+  <a href="https://github.com/adelelawady/Clipify-Hub/releases/download/3.3.0/clipify-hub-server.exe">
     <img src="https://img.shields.io/badge/Download-Server%20Only-green?style=for-the-badge&logo=docker" alt="Download Server">
   </a>
 </p>
+
 
 [Original Input Video](https://www.youtube.com/watch?v=HEDDi56PHEo)
 
