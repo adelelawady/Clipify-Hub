@@ -22,20 +22,10 @@
 [Original Input Video](https://www.youtube.com/watch?v=HEDDi56PHEo)
 
 ## 🎥 Example Outputs
-<p align="center">
-  <div style="display: inline-block; text-align: center; margin: 0 10px;">
-    <h3>Stretched Video Example</h3>
-    <video width="400" controls>
-      <source src="https://github.com/user-attachments/assets/ef4ae516-5c1f-4402-a4e8-ced78daa4839" type="video/mp4">
-    </video>
-  </div>
-  <div style="display: inline-block; text-align: center; margin: 0 10px;">
-    <h3>Blurred Background Example</h3>
-    <video width="400" controls>
-      <source src="https://github.com/user-attachments/assets/0de13b83-10dd-4233-9529-6153ed1619c5" type="video/mp4">
-    </video>
-  </div>
-</p>
+
+### 🔹 [Stretched Video Example](https://github.com/user-attachments/assets/ef4ae516-5c1f-4402-a4e8-ced78daa4839)
+
+### 🔹 [Blurred Background Example](https://github.com/user-attachments/assets/0de13b83-10dd-4233-9529-6153ed1619c5)
 
 ## 🎥 About
 Clipify-Hub is a powerful video processing tool based on [Clipify](https://github.com/adelelawady/Clipify). It helps content creators transform long-form videos into engaging, social media-ready clips with AI-powered features.
